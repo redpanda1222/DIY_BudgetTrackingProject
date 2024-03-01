@@ -1,0 +1,202 @@
+{
+  "users": {
+    "existingUser": {
+      "password": "existing123",
+      "projects": [],
+      "email": "existing@example.com",
+      "username": "existingUser"
+    },
+    "a6": {
+      "password": "a6",
+      "projects": [
+        {
+          "note": "",
+          "description": "new bathroom remodel.",
+          "title": "Bathroom remodel",
+          "tasks": [
+            {
+              "name": "Bathroom tiles",
+              "items": []
+            },
+            {
+              "name": "Shower Head fix",
+              "items": []
+            }
+          ],
+          "budget": 12000.0
+        },
+        {
+          "note": "",
+          "description": "new bathroom remodel.",
+          "title": "Bathroom remodel",
+          "tasks": [],
+          "budget": 12000.0
+        },
+        {
+          "note": "",
+          "description": "new bathroom remodel.",
+          "title": "Bathroom remodel",
+          "tasks": [
+            {
+              "name": "Bathroom tiles",
+              "items": []
+            },
+            {
+              "name": "Shower Head fix",
+              "items": []
+            }
+          ],
+          "budget": 12000.0
+        },
+        {
+          "note": "",
+          "description": "new bathroom remodel.",
+          "title": "Bathroom remodel",
+          "tasks": [],
+          "budget": 12000.0
+        },
+        {
+          "note": "",
+          "description": "new bathroom remodel.",
+          "title": "Bathroom remodel",
+          "tasks": [
+            {
+              "name": "Bathroom tiles",
+              "items": []
+            },
+            {
+              "name": "Shower Head fix",
+              "items": []
+            }
+          ],
+          "budget": 12000.0
+        },
+        {
+          "note": "",
+          "description": "new bathroom remodel.",
+          "title": "Bathroom remodel",
+          "tasks": [],
+          "budget": 12000.0
+        }
+      ],
+      "email": "a6",
+      "username": "a6"
+    },
+    "charmel12": {
+      "password": "12",
+      "projects": [
+        {
+          "note": "",
+          "description": ":)",
+          "title": "bathroom remodel",
+          "tasks": [
+            {
+              "name": "sink",
+              "items": [
+                {
+                  "unit": 1,
+                  "price": 40.0,
+                  "name": "faucet"
+                },
+                {
+                  "unit": 1,
+                  "price": 20.0,
+                  "name": "sink bowl"
+                }
+              ]
+            },
+            {
+              "name": "cabinets",
+              "items": [
+                {
+                  "unit": 2,
+                  "price": 20.0,
+                  "name": "wood material"
+                }
+              ]
+            },
+            {
+              "name": "someTask",
+              "items": [
+                {
+                  "unit": 1,
+                  "price": 1234567.0,
+                  "name": "very expensive thing"
+                }
+              ]
+            },
+            {
+              "name": "someTask2",
+              "items": []
+            }
+          ],
+          "budget": 200.0
+        }
+      ],
+      "email": "charmel12@uw.edu",
+      "username": "charmel12"
+    },
+    "alex123": {
+      "password": "alex123",
+      "projects": [
+        {
+          "note": "",
+          "description": "aslcnasjc",
+          "title": "room",
+          "tasks": [
+            {
+              "name": "something",
+              "items": [
+                {
+                  "unit": 1,
+                  "price": 123.0,
+                  "name": "SOMETHING"
+                }
+              ]
+            }
+          ],
+          "budget": 123.0
+        }
+      ],
+      "email": "alex123@gmail.com",
+      "username": "alex123"
+    },
+    "testUser": {
+      "password": "test123",
+      "projects": [],
+      "email": "test@example.com",
+      "username": "testUser"
+    },
+    "soe1": {
+      "password": "1",
+      "projects": [
+        {
+          "note": "asnxas xk",
+          "description": "new wall for something",
+          "title": "wall",
+          "tasks": [
+            {
+              "name": "cool name",
+              "items": [
+                {
+                  "unit": 1,
+                  "price": 12.0,
+                  "name": "cool item"
+                }
+              ]
+            }
+          ],
+          "budget": 50.0
+        }
+      ],
+      "email": "soe1@gmail.com",
+      "username": "soe1"
+    },
+    "alexg123": {
+      "password": "123",
+      "projects": [],
+      "email": "alexg123@example.com",
+      "username": "alexg123"
+    }
+  }
+}
