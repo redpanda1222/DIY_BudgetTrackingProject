@@ -1,4 +1,4 @@
-# DYI_BudgetTrackingProject
+# DIY_BudgetTrackingProject
 # Team-Periwinkle
 # Members - Soe Lin, Mey Vo, Alex Garcia, Charmel Mbala, Mahiliet Awasso
 # External Library/ Dependencies
